@@ -26,7 +26,8 @@
 ---
 
 # :pushpin: Descrição do Projeto <a name="id01"></a>
-O App mostra quais salas estão livres para entrar contato com setor de Agendamento para reservar a cirurgia. Está sendo utilizado no site [Hospital 10 de Julho](https://www.hospital10dejulho.com.br/centro-cirurgico/) e clicando botão "Agenda Cirúrgica".
+O App mostra quais salas estão livres para entrar contato com setor de Agendamento para reservar a cirurgia. Está sendo utilizado no site Hospital 10 de Julho e clicando botão "Agenda Cirúrgica".
+Dia 31/05/2026 não se encontra o botão.
 
 ---
 
