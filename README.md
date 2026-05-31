@@ -29,6 +29,8 @@
 O App mostra quais salas estão livres para entrar contato com setor de Agendamento para reservar a cirurgia. Está sendo utilizado no site Hospital 10 de Julho e clicando botão "Agenda Cirúrgica".
 Dia 31/05/2026 não se encontra o botão.
 
+Durante desenvolvimento React e foi definido pra fazer PHP
+
 ---
 
 # :computer: Ferramentas<a name="id02"></a>
